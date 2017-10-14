@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hannes.app3.FragMe"
+    android:background="@android:color/white">
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hannes Alzén\n1995-03-29\nStuderar vid LiU\nSystemvetare\nhannes.alzen@outlook.com"
+        android:textColor="@color/colorPrimaryDark"/>
+
+
+</FrameLayout>
